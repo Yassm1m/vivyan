@@ -142,3 +142,24 @@ fimalgoritmo
 
 
 TIPOS DE DADOS NA  LINGUAGEM JAVA*
+
+Em Java, existem vários tipos de dados, que podem ser divididos em dois grupos principais: tipos de dados primitivos e tipos de dados de referência.
+
+Os tipos de dados primitivos são tipos básicos, que representam valores simples, como números e caracteres. Os tipos de dados primitivos incluem:
+
+.boolean: representa um valor verdadeiro ou falso (true ou false)
+.byte: representa um número inteiro de 8 bits, com sinal
+.short: representa um número inteiro de 16 bits, com sinal
+.int: representa um número inteiro de 32 bits, com sinal
+.long: representa um número inteiro de 64 bits, com sinal
+.float: representa um número de ponto flutuante de 32 bits
+.double: representa um número de ponto flutuante de 64 bits
+.char: representa um caractere Unicode de 16 bits
+Os tipos de dados de referência são tipos que representam objetos em Java, incluindo strings, arrays e objetos definidos pelo usuário. Alguns exemplos de tipos de dados de referência incluem:
+
+.String: representa uma sequência de caracteres
+.Array: representa uma coleção de elementos do mesmo tipo de dados
+.Classe: representa um tipo de dados definido pelo usuário
+.Interface: define um conjunto de métodos que uma classe pode implementar
+
+
